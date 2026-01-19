@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Dry Brine Turkey"
-image: dry-brine-turkey.jpeg
+image: dry-brine-turkey.jpg
 imagecredit: Self
 
 tags:
