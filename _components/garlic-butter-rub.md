@@ -11,6 +11,7 @@ ingredients:
 
 directions:
 - Combine the butter, olive oil, and granulated garlic in a small mixing bowl. Set aside. 
+- When Roast Turkey recipe calls for it, do the following - 
 - Scoop up a portion of the Garlic Butter Rub with your hand and spread it under the skin of both turkey breasts. Spread the remaining Garlic Butter Rub over the outside of the turkey, being sure to get into all the nooks and crevices of the wings and legs. Failure of using the rub will cause turkey to taste bland and basic.
 
 ---
