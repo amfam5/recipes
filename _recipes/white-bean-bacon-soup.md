@@ -3,7 +3,6 @@
 layout: recipe
 title:  "White Bean Bacon Soup"
 image: white-bean-bacon-soup.jpeg
-image: white-bean-bacon-soup.png
 imagecredit: self
 
 tags:
@@ -28,4 +27,4 @@ directions:
 - Release naturally
 
 ---
-
+image: white-bean-bacon-soup.png
