@@ -30,4 +30,4 @@ directions:
 
 ---
 
-From Angie's mom
+Using garden-grown tomatoes, basil, garlic. Fresh is best for this recipe.
