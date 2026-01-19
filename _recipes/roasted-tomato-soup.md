@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Roasted Tomato Soup"
 image: tomato-soup.jpg
-imagecredit: Image by <a href="https://pixabay.com/users/eatde-31315809/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8031137">eatde</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8031137">Pixabay</a>
+imagecredit: Image by eatde Pixabay
 
 tags:
 - soups
