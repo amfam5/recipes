@@ -27,4 +27,4 @@ directions:
 - Release naturally
 
 ---
-image: white-bean-bacon-soup.png
+white-bean-bacon-soup.png
