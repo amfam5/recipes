@@ -1,8 +1,6 @@
-# Chowdown
+# Recipe Box
 
-A simple, plaintext recipe database for hackers
-
-[http://chowdown.io](http://chowdown.io)
+A simple, plaintext recipe database for those who need a central recipe repository for friends/family and who detest recipe blogs. 
 
 # Getting Started
 
@@ -44,5 +42,5 @@ A component recipe is a special recipe made up of other recipes. To make a new c
 
 You can an example on the Red Berry Tart recipe. 
 
-- [example Markdown](https://raw.githubusercontent.com/clarklab/chowdown/gh-pages/_recipes/red-berry-tart.md)
-- [example recipe page](http://chowdown.io/recipes/red-berry-tart.html)
+- [example Markdown](_components/dry-brine.md)
+- [example recipe page](https://amfam5.github.io/recipes/recipes/dry-brine-turkey.html)
