@@ -40,5 +40,10 @@ directions:
 Notes:
 - You can replace the avocado oil with 1/3 cup melted coconut oil or 1/2 cup melted butter.
 
+Recipe Customizations:
+- If you don’t have tapioca flour, simply use 5 cups of almond flour and omit the tapioca flour.
+- You can replace the avocado oil with ⅓ cup of melted coconut oil or ½ cup (1 stick) of melted butter.
+- When using fresh cranberries, carefully chop them in half or fourths using a sharp knife.
+- Use a cookie cutter to shape the dough into different shapes. 
 
 ---
