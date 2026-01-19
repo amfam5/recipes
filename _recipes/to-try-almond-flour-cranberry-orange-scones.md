@@ -36,7 +36,7 @@ directions:
 - Bake on the center rack of the preheated oven for 18-20 minutes for large scones or 15-18 minutes for smaller scones, until they’re golden brown. Adjust the bake time based on the size of the scones.
 - Remove the scones from the oven and allow them to cool on the baking sheet for at least 10 minutes.
 - If you’d like to make the optional sweet orange glaze, mix powdered sugar and orange juice (or water) in a small bowl until smooth. Drizzle this glaze over the cooled scones and enjoy! You can wait for the glaze to harden before serving it you’d like.
-
+---
 Notes:
 - You can replace the avocado oil with 1/3 cup melted coconut oil or 1/2 cup melted butter.
 
@@ -46,4 +46,3 @@ Recipe Customizations:
 - When using fresh cranberries, carefully chop them in half or fourths using a sharp knife.
 - Use a cookie cutter to shape the dough into different shapes. 
 
----
