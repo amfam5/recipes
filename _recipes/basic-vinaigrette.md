@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Korean Chicken Marinade"
+title:  "Basic Vinaigrette"
 image: basic-vinaigrette.jpeg
 imagecredit: self
 
