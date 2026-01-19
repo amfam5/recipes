@@ -9,22 +9,6 @@ tags:
 - soups
 - garden
 
-
-2 1/4 Lb cherry tomatoes 
-1/4 c Extra Virgin Olive Oil
-4 cloves garlic 
-1/4 c fresh basil (or 1 tsp dried) 
-3/4 tsp salt 
-pepper 
-1/4 c cream 
-1 c broth 
-Toss tomatoes, pric.oil 
-Balu 35 min @ 425° 
-Let cool 10 min 
-Blend all (strain skins) 
-Add broth, basil. sdp, cream 
-until smooth 
-
 ingredients:
 - 2 1/4 Lb cherry tomatoes 
 - 1/4 c Extra Virgin Olive Oil
