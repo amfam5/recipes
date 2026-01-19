@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Dry Brine"
-image: dry-brine.jpeg
+image: dry-brine.jpg
 
 ingredients:
 - 1 tablespoon coarse ground kosher salt (per 5 pounds of turkey) 

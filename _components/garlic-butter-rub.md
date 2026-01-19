@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Garlic Butter Rub"
-image: dry-brine-turkey-rub.jpeg
+image: dry-brine-turkey-rub.jpg
 
 ingredients:
 - 1 stick butter softened 
