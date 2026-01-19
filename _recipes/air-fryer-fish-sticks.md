@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Air Fryer Fish Sticks"
-image: air-fryer-fish-sticks.jpg
+image: air-fryer-fish-sticks.jpeg
 imagecredit: self
 
 tags:
