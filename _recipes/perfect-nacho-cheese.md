@@ -8,6 +8,7 @@ imagecredit: Self
 tags:
 - snacks
 - dairy
+- cooking tips
 
 ingredients:
 - baking soda
@@ -24,4 +25,4 @@ directions:
 - More or less cheese depending on how runny you want it 
 
 ---
-
+Sodium Citrate the secret ingredient to turn any cheese into the perfect smooth creamy nacho cheese, its formula is Na3C6H5O7 (NaCHO) 
