@@ -6,7 +6,7 @@ image: almond-flour-cranberry-orange-scones.jpg
 imagecredit: self
 
 tags:
-- untried & untested
+- untried
 - dessert
 - gluten-free
 
@@ -38,11 +38,12 @@ directions:
 - If you’d like to make the optional sweet orange glaze, mix powdered sugar and orange juice (or water) in a small bowl until smooth. Drizzle this glaze over the cooled scones and enjoy! You can wait for the glaze to harden before serving it you’d like.
 ---
 Notes:
-- You can replace the avocado oil with 1/3 cup melted coconut oil or 1/2 cup melted butter.
+You can replace the avocado oil with 1/3 cup melted coconut oil or 1/2 cup melted butter.
 
 Recipe Customizations:
-- If you don’t have tapioca flour, simply use 5 cups of almond flour and omit the tapioca flour.
-- You can replace the avocado oil with ⅓ cup of melted coconut oil or ½ cup (1 stick) of melted butter.
-- When using fresh cranberries, carefully chop them in half or fourths using a sharp knife.
-- Use a cookie cutter to shape the dough into different shapes. 
+If you don’t have tapioca flour, simply use 5 cups of almond flour and omit the tapioca flour.
+You can replace the avocado oil with ⅓ cup of melted coconut oil or ½ cup (1 stick) of melted butter.
+When using fresh cranberries, carefully chop them in half or fourths using a sharp knife.
+Use a cookie cutter to shape the dough into different shapes. 
+
 
