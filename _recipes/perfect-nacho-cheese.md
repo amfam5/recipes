@@ -25,4 +25,3 @@ directions:
 
 ---
 
-From Angie's mom
