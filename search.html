@@ -52,7 +52,7 @@ layout: default
 <!-- Step 3: Output tags in the correct format -->
 <div class="suggestions w-full mt-4 text-lg flex flex-col gap-2">
   <span class="text-red-950 md:text-primary uppercase font-semibold text-center">TAGS</span>     
-  {% for tag in tag_array limit:6 %}
+  {% for tag in tag_array limit:36 %}
     {% if tag != "" %}
       <span class="suggestion cursor-pointer text-white text-xl px-3 py-3 rounded-lg bg-primary text-center md:hover:scale-105 md:hover:rotate-1 transition underline underline-offset-2">{{ tag }}</span>
     {% endif %}
