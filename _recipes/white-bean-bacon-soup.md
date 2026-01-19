@@ -3,6 +3,7 @@
 layout: recipe
 title:  "White Bean Bacon Soup"
 image: white-bean-bacon-soup.jpg
+imae: white-bean-bacon-soup.png
 imagecredit: self
 
 tags:
@@ -27,7 +28,5 @@ directions:
 - Release naturally
 
 ---
-<picture>
-  <img src="white-bean-bacon-soup.png" alt="A detailed illustration of a cityscape">
-</picture>
+
 
