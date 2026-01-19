@@ -1,15 +1,20 @@
 ---
 
 layout: recipe
-title:  "Browning Ground Beef"
+title:  "America's Test Kitchen - Browning Beef"
 image: browning-ground-beef.png
 imagecredit: self
 
 tags:
 - Cooking Tips
 
-components:
-- America's Test Kitchen - Browning Beef
+ingredients:
+- 
+
+directions:
+- 
+
+Notes:
 - 
 
 ---
