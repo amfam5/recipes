@@ -27,4 +27,7 @@ directions:
 - Release naturally
 
 ---
-white-bean-bacon-soup.png
+<picture>
+  <img src="white-bean-bacon-soup.png" alt="A detailed illustration of a cityscape">
+</picture>
+
