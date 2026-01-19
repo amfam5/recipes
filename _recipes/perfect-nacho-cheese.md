@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Perfect Nacho Cheese"
-image: perfect-nacho-cheese.jpg
+image: perfect-nacho-cheese.jpeg
 imagecredit: Self
 
 tags:
