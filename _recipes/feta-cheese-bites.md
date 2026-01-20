@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Seasoned Pork Rinds"
+title:  "Feta Cheese Bites"
 image: 3-ingredient-crispy-cheese-bites.jpg
 imagecredit: self
 
