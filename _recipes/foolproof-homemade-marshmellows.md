@@ -16,5 +16,5 @@ directions:
 
 ---
 
-Serious recipe with lots of followthrough. Just go here - https://www.theflavorbender.com/how-to-make-marshmallows-tips-and-tricks-for-homemade-marshmallows/
+Serious recipe with lots of followthrough. Just go here - [TheFlavorBender](https://www.theflavorbender.com/how-to-make-marshmallows-tips-and-tricks-for-homemade-marshmallows/)
 
