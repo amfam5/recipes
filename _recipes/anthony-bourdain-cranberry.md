@@ -6,7 +6,7 @@ image: anthony-bourdain-cranberry.jpg
 imagecredit: self
 
 tags:
-- untreid
+- untried
 - thanksgiving
 
 ingredients:
