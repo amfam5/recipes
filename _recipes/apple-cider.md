@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Appel Cider"
+title:  "Apple Cider"
 image: wait.jpg
 imagecredit: self
 
