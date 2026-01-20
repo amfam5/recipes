@@ -44,3 +44,9 @@ You can an example on the Red Berry Tart recipe.
 
 - [example Markdown](_components/dry-brine.md)
 - [example recipe page](https://amfam5.github.io/recipes/recipes/dry-brine-turkey.html)
+
+# Recipe Tips
+
+Recipe notes are set up to come before the recipe at hand. 
+Only 1 photo per recipe, if you need to set up a how-to wth steps and photos for each step, use a component recipe.
+Prefernce is for fractions - ½, ↉, ⅓, ⅔, ¼, ¾, ⅕, ⅖, ⅗, ⅘, ⅙, ⅚, ⅐, ⅛, ⅜, ⅝, ⅞, ⅑, ⅒ instead of typed out for a cleaner look (to work on - changing these automatically)

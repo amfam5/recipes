@@ -6,8 +6,8 @@ baseurl: "https://amfam5.github.io/recipes"
 language: "en"
 lang_direction: "ltr"
 color: "#F53200"
-twitter_username: clarklab
-github_username:  clarklab
+twitter_username: 
+github_username:  
 
 # Build settings
 markdown: kramdown
