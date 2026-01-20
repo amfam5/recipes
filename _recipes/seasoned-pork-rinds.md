@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "SSeasoned Pork Rinds"
+title:  "Seasoned Pork Rinds"
 image: wait.jpg
 imagecredit: self
 
