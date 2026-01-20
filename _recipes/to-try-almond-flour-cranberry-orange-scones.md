@@ -23,10 +23,6 @@ ingredients:
 - 1 tsp sea salt
 - 1 cup (140g) dried cranberries
 
-Optional Powder Sugar Glaze:
-- 1 cup (100g) powdered sugar
-- 2 Tbsp (30ml) water or orange juice
-
 directions:
 - Preheat the oven to 350 degrees Fahrenheit and line a large baking sheet with parchment paper.
 - In a mixing bowl, mix together the eggs, avocado oil, pure maple syrup, vanilla extract, and orange zest. Mix well until the wet ingredients are well combined.
@@ -45,5 +41,10 @@ If you don’t have tapioca flour, simply use 5 cups of almond flour and omit th
 You can replace the avocado oil with ⅓ cup of melted coconut oil or ½ cup (1 stick) of melted butter.
 When using fresh cranberries, carefully chop them in half or fourths using a sharp knife.
 Use a cookie cutter to shape the dough into different shapes. 
+
+Optional Powder Sugar Glaze:
+- 1 cup (100g) powdered sugar
+- 2 Tbsp (30ml) water or orange juice
+
 
 
