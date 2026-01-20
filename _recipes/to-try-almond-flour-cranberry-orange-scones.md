@@ -43,8 +43,8 @@ When using fresh cranberries, carefully chop them in half or fourths using a sha
 Use a cookie cutter to shape the dough into different shapes. 
 
 Optional Powder Sugar Glaze:
-- 1 cup (100g) powdered sugar
-- 2 Tbsp (30ml) water or orange juice
+-  1 cup (100g) powdered sugar
+-  2 Tbsp (30ml) water or orange juice
 
 
 
