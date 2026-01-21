@@ -28,7 +28,11 @@ directions:
 ---
 
 Notes:
-✅ Balsamic vinegar makes a bold, slightly sweet dressing that is wonderful on green salads with fruit, such as apples, strawberries or peaches. 
-✅ Red wine vinegar packs a punch and works well with other bold flavors and bright veggies, like tomatoes, bell peppers, cucumber, cabbage and more (think Greek salads). 
-✅ White wine vinegar is a more mellow vinegar and it’s especially nice with more delicate flavors like cucumber and sweet corn. It’s lovely on just about every green salad out there. 
-✅ Greek/Italian variation - Use red wine vinegar. Add 1 to 2 teaspoons dried oregano and, optionally, a pinch of red pepper flakes. 
+
+Balsamic vinegar makes a bold, slightly sweet dressing that is wonderful on green salads with fruit, such as apples, strawberries or peaches. 
+
+Red wine vinegar packs a punch and works well with other bold flavors and bright veggies, like tomatoes, bell peppers, cucumber, cabbage and more (think Greek salads). 
+
+White wine vinegar is a more mellow vinegar and it’s especially nice with more delicate flavors like cucumber and sweet corn. It’s lovely on just about every green salad out there. 
+
+Greek/Italian variation - Use red wine vinegar. Add 1 to 2 teaspoons dried oregano and, optionally, a pinch of red pepper flakes. 
