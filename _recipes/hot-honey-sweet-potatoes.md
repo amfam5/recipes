@@ -6,7 +6,7 @@ image: hot-honey-sweet-potatoes.png
 imagecredit: self
 
 tags:
-- appetizer
+- sides
 
 ingredients:
 - 2 tablespoons unsalted butter, melted
