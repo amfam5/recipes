@@ -44,15 +44,15 @@ directions:
 
 
 ---
-tips:
-Oven Instructions - If you don’t have an air fryer, you can still make these delicious keto fish sticks. Simply preheat your oven to 425F and add several tablespoons of oil to a rimmed sheet pan. Place the sheet pan in the oven while it preheats. 
 
-Place the coated fish sticks on the pan and bake 5 minutes, then flip over and bake another 5 minutes.  
+Ways to Customie:
 
-Ways to Customize:
 Toss in shredded rotisserie chicken, chopped grilled chicken, or your favorite kind of protein for a more substantial, filling meal.
+
 Use roasted sweet potato, acorn squash, pumpkin, or kabocha squash in place of butternut squash.
+
 Mix up the nut and seed selection.
+
 Toss in other fresh goodies, like fresh blueberries, a chopped apple or pear, etc.
 
  
