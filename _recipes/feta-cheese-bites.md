@@ -10,7 +10,6 @@ tags:
 - appetizer
 - gluten-free
 - dairy-free
-- goatcheese
 
 ingredients:
 - 1 (8oz/227g) block feta cheese, about 219 grams after drained

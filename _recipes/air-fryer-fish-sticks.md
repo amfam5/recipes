@@ -8,7 +8,7 @@ imagecredit: self
 tags:
 - air fryer
 - fish
-- fam fav
+- favs
 - chicken
 
 ingredients:

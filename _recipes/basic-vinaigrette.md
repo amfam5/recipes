@@ -7,7 +7,7 @@ imagecredit: self
 
 tags:
 - salad dressing
-- fam favs
+- favs
 
 ingredients:
 - 1 ½ cup extra-virgin olive oil 

@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Vanilla Extract"
-image: wait.jpg
+image: Homemade-Vanilla-Extract.jpg
 imagecredit: self
 
 tags:

@@ -2,11 +2,12 @@
 
 layout: recipe
 title:  "Seasoned Pork Rinds"
-image: wait.jpg
+image: Pork-Rinds-Recipe.jpg
 imagecredit: self
 
 tags:
-- fam fav
+- favs
+- snacks
 
 ingredients:
 - Store bought pork rinds 

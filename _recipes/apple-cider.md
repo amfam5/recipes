@@ -7,7 +7,7 @@ imagecredit: self
 
 tags:
 - ingredients
-- drink
+- drinks
 - IP
 
 ingredients:

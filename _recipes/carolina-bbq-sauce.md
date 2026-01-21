@@ -6,7 +6,7 @@ image: wait.jpg
 imagecredit: self
 
 tags:
-- sauce
+- ingredients
 
 ingredients:
 - I1 c yellow mustard 

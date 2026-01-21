@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Potato Soup"
-image: wait.jpg
+image: potato-soup.jpg
 imagecredit: self
 
 tags:

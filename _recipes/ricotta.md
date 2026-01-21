@@ -2,12 +2,12 @@
 
 layout: recipe
 title:  "Ricotta"
-image: wait.jpg
+image: Homemade-Ricotta.jpg
 imagecredit: self
 
 tags:
 - ingredients
-- cheese
+- dairy
 
 ingredients:
 - 1 gallon whole milk

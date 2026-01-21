@@ -6,7 +6,7 @@ image: browning-ground-beef.png
 imagecredit: self
 
 tags:
-- Cooking Tips
+- tips
 
 components:
 - America's Test Kitchen - Browning Beef

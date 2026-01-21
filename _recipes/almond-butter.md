@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Almond Butter"
-image: wait.jpg
+image: almond-butter.jpg
 imagecredit: self
 
 tags:

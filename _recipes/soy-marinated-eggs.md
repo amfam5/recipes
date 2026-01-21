@@ -2,11 +2,13 @@
 
 layout: recipe
 title:  "Soy Marinated Eggs: Korean Mayak Eggs"
-image: wait.jpg
+image: mayak-eggs.jpg
 imagecredit: self
 
 tags:
-- fam fav
+- favs
+- salad
+- appetizers
 
 ingredients:
 - 6 hardboiled eggs, room temp

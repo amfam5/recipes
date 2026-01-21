@@ -7,7 +7,7 @@ imagecredit: self
 
 tags:
 - ingredients
-- drink
+- drinks
 
 ingredients:
 - 1/2 cup dry milk

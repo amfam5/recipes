@@ -8,7 +8,7 @@ imagecredit: self
 tags:
 - korean
 - chicken
-- fam favs
+- favs
 
 ingredients:
 - 1/2 c. soy sauce 

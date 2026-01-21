@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Sundried Tomato Pesto Pasta"
-image: wait.jpg
+image: sundried-tomato-pesto.jpg
 imagecredit: self
 
 tags:

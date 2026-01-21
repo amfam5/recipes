@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Taco Bell Chipotle Sauce"
-image: wait.jpg
+image: chipotle-sauce-recipe.jpg
 imagecredit: self
 
 tags:

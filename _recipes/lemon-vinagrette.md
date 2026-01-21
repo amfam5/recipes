@@ -6,8 +6,8 @@ image: basic-vinaigrette.jpeg
 imagecredit: self
 
 tags:
-- salad dressing
-- fam favs
+- ingredients
+- favs
 
 ingredients:
 - 1 cup extra-virgin olive oil 

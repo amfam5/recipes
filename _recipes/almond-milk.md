@@ -2,11 +2,12 @@
 
 layout: recipe
 title:  "Almond Milk"
-image: wait.jpg
+image: almond-milk.jpg
 imagecredit: self
 
 tags:
-- nut milk
+- drinks
+- ingredients
 
 ingredients:
 - 2 c water, filtered 
