@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Almond Butter No Bake Cookies"
+title:  "No Bake Almond Butter Cookies"
 image: no-bake-cookies.jpg
 imagecredit: self
 
