@@ -34,8 +34,6 @@ directions:
 - Once oil has reached desired temperature, put 4 pieces of chicken back into the pot. Fry for about 1 minute or until chicken is a dark golden brown. Remove chicken from oil and repeat with remaining chicken, keeping the frying to small batches.
 - Serve chicken while it is hot. Squeeze lemon wedges over chicken before eating. You can also serve with soy sauce for dipping.
 
-
-
 ---
 Karaage is Japanese-style fried chicken. It is a popular appetizer or side dish served at Japanese restaurants. Light and crunchy bite-sized pieces of chicken are the perfect way to start your meal or enjoy alongside a bowl of ramen.
 
