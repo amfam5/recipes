@@ -33,7 +33,8 @@ directions:
 
 ---
 tips:
- - Oven Instructions - If you don’t have an air fryer, you can still make these delicious keto chicken/fish tenders/stiks. Simply preheat your oven to 425F and add several tablespoons of oil to a rimmed sheet pan. Place the sheet pan in the oven while it preheats. 
- - Place the coated chicken/fish on the pan and bake 5 minutes, then flip over and bake another 5 minutes. 
+Oven Instructions - If you don’t have an air fryer, you can still make these delicious keto chicken/fish tenders/stiks. Simply preheat your oven to 425F and add several tablespoons of oil to a rimmed sheet pan. Place the sheet pan in the oven while it preheats. 
+
+Place the coated chicken/fish on the pan and bake 5 minutes, then flip over and bake another 5 minutes. 
 
  
