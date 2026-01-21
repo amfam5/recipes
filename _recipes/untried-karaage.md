@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Karaage (Japanese Fried Chicken)"
-image: karaage.png
+image: karaage.jpg
 imagecredit: self
 
 tags:
