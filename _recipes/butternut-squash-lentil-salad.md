@@ -41,12 +41,13 @@ directions:
 - Serve with your main dish, and enjoy! The dish can be served warm, room temperature, or cold. I have a slight preference for room temperature.
 - Store lentil salad in an airtight container in the refrigerator for up to 5 days.
 
+
+
+---
 tips:
  - Oven Instructions - If you don’t have an air fryer, you can still make these delicious keto fish sticks. Simply preheat your oven to 425F and add several tablespoons of oil to a rimmed sheet pan. Place the sheet pan in the oven while it preheats. 
  - Place the coated fish sticks on the pan and bake 5 minutes, then flip over and bake another 5 minutes.  
-
----
-
+ 
 Ways to Customize:
 
     Toss in shredded rotisserie chicken, chopped grilled chicken, or your favorite kind of protein for a more substantial, filling meal.
