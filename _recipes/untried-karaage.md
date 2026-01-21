@@ -32,7 +32,7 @@ directions:
 - Once oil has reached desired temperature, add about 4 pieces of chicken. Let chicken cook for about 2 minutes or until lightly browned. Remove chicken from hot oil and place onto a plate lined with paper towel. Repeat with remaining chicken, cooking in small batches. Make sure to monitor the temperature of the oil to keep it around 325°F. The oil temperature will drop as you add more chicken in there so you may need to adjust the heating setting. Make sure oil does not drop below 300°F.
 - Once all the chicken is done, use a strainer to strain out any crumbs left in the oil. Then raise the heat level to bring the oil temperature up to 365°F.
 - Once oil has reached desired temperature, put 4 pieces of chicken back into the pot. Fry for about 1 minute or until chicken is a dark golden brown. Remove chicken from oil and repeat with remaining chicken, keeping the frying to small batches.
-Serve chicken while it is hot. Squeeze lemon wedges over chicken before eating. You can also serve with soy sauce for dipping.
+- Serve chicken while it is hot. Squeeze lemon wedges over chicken before eating. You can also serve with soy sauce for dipping.
 
 
 
