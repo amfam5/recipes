@@ -11,7 +11,7 @@ tags:
 ingredients:
 - 5 cup chopped tomatillos
 - 1 1/2 cup green chilis, seeded and finely chopped
-- 1/2 cup jalapenos, seeded ad finely chopped
+- 1/2 cup jalapeños, seeded and finely chopped
 - 4 cup chopped onions
 - 1 cup lemon or lime juice
 - 6 cloves garlic, finely chopped
