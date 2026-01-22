@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Burrito Bowl"
-image: wait.jpeg
+image: wait.jpg
 imagecredit: self
 
 tags:

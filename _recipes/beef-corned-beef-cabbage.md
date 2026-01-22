@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Corned Beef & Cabbage"
-image: wait.jpeg
+image: wait.jpg
 imagecredit: self
 
 tags:
