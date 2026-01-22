@@ -21,7 +21,10 @@ directions:
 - stir rice, beans, and stock/water into pot
 - elevate tray.
 - season chicken and place on elevated tray
-- rapid cooker - speed - meals- 390F - 15 minutes
+- rapid cooker - speed - meals- 390F - 15 minutes (will steam 10 min before cooking)
+- transfer chicken to cutting board, slice as desired
+- arrance bowls with rice, beans, chicken, and other toppings as desired
 
 ---
-
+note:
+if the rice and beans needs more time, use sear/saute mode with the lid open
