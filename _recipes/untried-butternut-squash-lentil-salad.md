@@ -12,7 +12,6 @@ tags:
 - untested
 
 ingredients:
-- Salad
 - 1 cup lentils any kind!
 - 2 cups butternut squash peeled and chopped into chunks
 - ½ red onion cut into slices
