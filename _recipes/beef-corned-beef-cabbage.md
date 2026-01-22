@@ -22,7 +22,7 @@ directions:
 - place on top of onions, fat side up
 - sprinkle seasons
 - pour in liquid
-- pressure cook on high, 70 minutes (+5-10minutes for each pound over 4lbs). NR 15 minutes
+- pressure cook on high, 70 minutes (+5-10 minutes for each pound over 4lbs). NR 15 minutes
 - remove trivet and meat, reserve 2 cups liquid from pot, brush off seasoning
 - add veggies, put on Manual High 3 min
 - slice beef. pour reserved liquid over meat slices and cover with foil
