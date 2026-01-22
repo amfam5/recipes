@@ -34,3 +34,4 @@ directions:
 ---
 Easy way to use leftover chicken and rice - It's best to use leftover rice that is stiff and cold rather than freshly cooked rice.
 
+Recipe is from [Kirbie Cravings](https://kirbiecravings.com)
