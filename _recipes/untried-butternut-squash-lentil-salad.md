@@ -55,4 +55,4 @@ Mix up the nut and seed selection.
 
 Toss in other fresh goodies, like fresh blueberries, a chopped apple or pear, etc.
 
- 
+Recipe is from [The Roasted Root](https://www.theroastedroot.net/butternut-squash-lentil-salad/)
