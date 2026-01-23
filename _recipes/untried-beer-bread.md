@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Beer Bread - 3 Ingredients"
-image: beer-bread.jpg
+image: beer-bread.jpeg
 imagecredit: self
 
 tags:
