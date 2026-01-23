@@ -48,3 +48,5 @@ directions:
 ---
 
 Juicy baked chicken breasts in a velvety, buttery sun-dried tomato sauce make this a recipe you’ll want to come back to over and over again.
+
+Recipe from [Tried and True](https://www.triedandtruerecipe.com/baked-sun-dried-tomato-chicken/)
