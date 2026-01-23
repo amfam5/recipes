@@ -60,7 +60,7 @@ directions:
 
 ---
 
-This Jello Fruit Salad is based upon one of hippie_mama's grandmother's recipes. It is very likely the only good jello-food combo that came from the 50's.. Orange Jello and Carrots anyone? Not me.
+This Jello Fruit Salad is based upon one of Oma's recipes. It is very likely the only good jello-food combo that came from the 50's.. Orange Jello and Carrots anyone? Not me.
 
 We make this Jello Fruit Salad for major holidays, family gatherings, parties of all types, and never have any to bring back home with us.
 
