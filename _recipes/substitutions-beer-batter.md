@@ -1,13 +1,14 @@
 ---
 
 layout: recipe
-title:  "Beer Batter 2021"
-image: wait.jpg
+title:  "Beer Batter"
+image: beer-batter.jpg
 imagecredit: self
 
 tags:
 - substitutions
 - gluten-free
+- 2021
 
 ingredients:
 - 1 1/2 cup Bob's All Purpose GF Flour

@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Candied Jalapeños"
-image: wait.jpg
+image: candied-jalapenos.jpg
 imagecredit: self
 
 tags:
