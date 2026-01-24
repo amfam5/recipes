@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Tomato Basil Shrimp"
-image: tomato-basil-shrimp.jpg
+image: tomato-basil-shrimp.jpeg
 imagecredit: self
 
 tags:
