@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Almond Flour Cookie Balls"
-image: almond-flour-cookie-ballst.jpg
+image: almond-flour-cookie-balls.jpg
 imagecredit: self
 
 tags:
