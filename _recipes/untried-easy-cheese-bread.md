@@ -23,12 +23,6 @@ directions:
 - Preheat oven to 425°F. Carefully remove crust off of parchment paper and place onto an oven-safe cooling rack. The cooling rack will help allow the bottom to crisp up. Sprinkle surface with remaining 1/2 cup cheese. If desired, you can substitute 2 TBSP of mozzarella for 2 TBSP of parmesan which gives it a little different flavor. Place cooling rack into the oven and cook breadsticks for about 5 minutes, or until cheese is melted and blistered.
 - If desired, sprinkle with parsley before cutting and serving.
 - You can add in other cheese blends for more variation but I recommend that the crust be mainly mozzarella cheese as some cheeses, like cheddar, will cause the crust to be too salty.
-<picture>
-  <source
-    srcset="https://raw.githubusercontent.com/amfam5/recipes/refs/heads/gh-pages/images/cheesy-breadsticks-collage.jpg"
-    media="(orientation: portrait)" />
-  <img src="https://raw.githubusercontent.com/amfam5/recipes/refs/heads/gh-pages/images/cheesy-breadsticks-collage.jpg" alt="" />
-</picture>
 
 ---
 
