@@ -1,8 +1,8 @@
 ---
 
 layout: recipe
-title:  "Beef Tip Roast"
-image: wait.jpg
+title:  "Flourless Easy Cheese Bread"
+image: easy-cheese-bread.jpg
 imagecredit: self
 
 tags:

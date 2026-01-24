@@ -1,8 +1,8 @@
 ---
 
 layout: recipe
-title:  "Beef Tip Roast"
-image: wait.jpg
+title:  "Almond Flour Cookie Balls"
+image: almond-flour-cookie-ballst.jpg
 imagecredit: self
 
 tags:
