@@ -23,3 +23,5 @@ directions:
 ---
 
 When measuring almond flour with a measuring cup, use a spoon to spoon it out of the bag and into the measuring cup and then level off the top of the cup. If you directly place the measuring cup into the bag, you'll end up with too much almond flour.
+
+Recipe from [Kirbie Cravings](https://kirbiecravings.com/4-ingredient-no-bake-cookie-balls/)
