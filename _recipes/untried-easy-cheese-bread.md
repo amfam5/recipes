@@ -28,13 +28,6 @@ directions:
 
 These cheesy breadsticks are super easy to make. They only require 3 ingredients and are also gluten-free and low carb.
 
-![alt text](https://raw.githubusercontent.com/amfam5/recipes/refs/heads/gh-pages/images/cheesy-breadsticks-collage.jpg "Logo Title Text 1")
-
 Recipe from [Kirbie Cravings](https://kirbiecravings.com/4-ingredient-no-bake-cookie-balls/)
 
-<picture>
-  <source
-    srcset="https://raw.githubusercontent.com/amfam5/recipes/refs/heads/gh-pages/images/cheesy-breadsticks-collage.jpg"
-    media="(orientation: portrait)" />
-  <img src="https://raw.githubusercontent.com/amfam5/recipes/refs/heads/gh-pages/images/cheesy-breadsticks-collage.jpg" alt="" />
-</picture>
+![alt text](https://raw.githubusercontent.com/amfam5/recipes/refs/heads/gh-pages/images/cheesy-breadsticks-collage.jpg "Directions")
