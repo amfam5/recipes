@@ -15,15 +15,15 @@ ingredients:
 - 1 cup lentils any kind!
 - 2 cups butternut squash peeled and chopped into chunks
 - ½ red onion cut into slices
-- 2 Tbsp avocado oil
+- 2 TBSP avocado oil
 - Sea salt to taste
 - ⅔ cup feta cheese
 - ½ cup pecans chopped
 - ½ cup dried cranberries
 - ⅓ cup pumpkin seeds
 - Dressing
-- 3 Tbsp avocado oil
-- 2 Tbsp balsamic vinegar
+- 3 TBSP avocado oil
+- 2 TBSP balsamic vinegar
 - 1 small clove garlic minced
 - 1 to 2 tsp orange zest optional
 - 2 tsp pure maple syrup

@@ -11,7 +11,7 @@ tags:
 ingredients:
 - 2 large eggs
 - 6 oz chicken broth
-- 1 tbsp toasted sesame oil
+- 1 TBSP toasted sesame oil
 - 1 green scallion, thinly sliced
 
 directions:

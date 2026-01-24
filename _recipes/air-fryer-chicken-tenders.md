@@ -14,8 +14,8 @@ tags:
 ingredients:
 - 1 lb (453.59 g) chigne tenders (sliced chighen breast) or white fish such as cod 
 - 1/4 cup (56 g) mayonnaise 
-- 2 tbsp (30.43 g) Dijon mustard 
-- 2 tbsp water 
+- 2 TBSP (30.43 g) Dijon mustard 
+- 2 TBSP water 
 - 1 1/2 cups (90 g) pork rind panko, such as Pork King Good 
 - 3/4 tsp cajun seasoning 
 - Salt and pepper to taste 

@@ -15,7 +15,7 @@ ingredients:
 - 1 onion, medium
 - 2-3 celery stalks
 - 1 head garlic
-- 1-2 tbsp ACV
+- 1-2 TBSP ACV
 - enough water to cover
 
 directions:

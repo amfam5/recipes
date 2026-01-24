@@ -13,7 +13,7 @@ ingredients:
 - 3/4 c brandy 
 - 2 1/2 c Bob's GF flour (red bag) 
 - 3/4 tsp xanthan gum 
-- 1 Tbsp cinnamon 
+- 1 TBSP cinnamon 
 - 1/2 tsp mace 
 - 1/2tsp cloves 
 - 1 tsp baking powder 

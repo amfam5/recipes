@@ -18,7 +18,7 @@ ingredients:
 
 directions:
 - Mix up baking soda and citric acid dry in a 1.3:1.0 ratio. 
-- Put 1/4 tsp of the above mixture into 3 tbsp liquid (water, milk, beer, etc.)
+- Put 1/4 tsp of the above mixture into 3 TBSP liquid (water, milk, beer, etc.)
 - Heat it up
 - blend in about 3 oz shredded cheese of your choice
 - Whisk it all up.

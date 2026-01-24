@@ -10,7 +10,7 @@ tags:
 
 ingredients:
 - 1/4 c mayo 
-- 2 Tbsp Chipotle sauce from can of adobo 
+- 2 TBSP Chipotle sauce from can of adobo 
 - 1/4 tsp on.on proder 
 - 1/4 tsp garlic power 
 - 1/4 tsp sugar 

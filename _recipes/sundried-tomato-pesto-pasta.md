@@ -14,8 +14,8 @@ ingredients:
 - 6 to 7 ounces goat cheddar
 - 1/2 cup fresh parsley
 - 1/2 cup fresh basil
-- 2 tbsp lemon dressin
-- 2 tbsp water
+- 2 TBSP lemon dressin
+- 2 TBSP water
 - 8 sundried tomatoes, with EVOO
 - 2 tsp salt
 

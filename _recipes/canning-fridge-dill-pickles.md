@@ -12,9 +12,9 @@ ingredients:
 - 8.25 cup sliced cucumbers or 2.5 lbs spears
 - 2 cup white vinegar
 - 2 cup water
-- 6 tbsp pickling salt
+- 6 TBSP pickling salt
 - 1/4 cup sugar
-- 2 tbsp pickling spices
+- 2 TBSP pickling spices
 - 7 1/2 tsp dill seeds
 - 5 tsp mustard seeds
 - 1 1/4 tsp whole black peppercorns

@@ -14,7 +14,7 @@ ingredients:
 - 1 cup water
 - 2 cloves garlic, smashed
 - 2 tsps sugar
-- 1 tbsp salt
+- 1 TBSP salt
 - 7-8 jalapenños, sliced
 
 directions:

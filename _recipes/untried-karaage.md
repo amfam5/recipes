@@ -13,8 +13,8 @@ ingredients:
 - peanut oil for frying, (can substitute with canola oil)
 - 1 lemon, sliced into wedges (for serving)
 - marinade
-- 1 tbsp low sodium soy sauce
-- 1 tbsp dry sake
+- 1 TBSP low sodium soy sauce
+- 1 TBSP dry sake
 - 1 tsp sesame oil
 - 1 tsp sugar
 - 3 cloves garlic, minced

@@ -12,7 +12,7 @@ tags:
 
 ingredients:
 - 1.5 cups (327g) pumpkin puree
-- 4 tbsp (59ml) maple syrup, or more to taste
+- 4 TBSP (59ml) maple syrup, or more to taste
 - 1 tsp (2g) pumpkin pie spice
 - 2 cups (175g) quick oats
 

@@ -14,7 +14,7 @@ ingredients:
 - 1/3 c brown Sugar 
 - 3/4 c apple cider Vinegar 
 - 1/4 c water 
-- 2 Tbsp smoked paprika 
+- 2 TBSP smoked paprika 
 - 1 tsp blk pepper 
 - 1 tsp white pepper 
 - 1 tsp soy sauce

@@ -13,8 +13,8 @@ tags:
 
 ingredients:
 - 1 (8oz/227g) block feta cheese, about 219 grams after drained
-- 2 tbsp (16g) cornstarch, can also use potato starch
-- 2 tbsp (1floz/30ml) avocado oil, or more as needed
+- 2 TBSP (16g) cornstarch, can also use potato starch
+- 2 TBSP (1floz/30ml) avocado oil, or more as needed
 
 directions:
 - Drain water from feta cheese and pat dry with a paper towel. Cut feta into small cubes, about 3/4 to 1 inch.

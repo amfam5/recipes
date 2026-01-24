@@ -14,8 +14,8 @@ tags:
 ingredients:
 - 1 ½ lb chicken breasts, cut into small cubes (about ¾ inch) - preferably leftover
 - 4 packed cups leftover cooked rice, (see note)
-- 4 ½ tbsp low sodium soy sauce
-- 3 ½ tbsp sesame oil
+- 4 ½ TBSP low sodium soy sauce
+- 3 ½ TBSP sesame oil
 - 1 ½ cups frozen peas and carrots
 - salt, to taste
 - 3 eggs, whisked

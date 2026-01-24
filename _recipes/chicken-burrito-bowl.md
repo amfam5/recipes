@@ -14,7 +14,7 @@ ingredients:
 - 1 cup black beans
 - 2 cups stock or water
 - 4 chicken breasts, boneless, 5-6oz each
-- 2 tbsp taco seasoning
+- 2 TBSP taco seasoning
 - salt & pepper to taste
 
 directions:

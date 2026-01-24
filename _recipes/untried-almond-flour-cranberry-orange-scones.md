@@ -14,7 +14,7 @@ ingredients:
 - 2 large eggs
 - ⅓ cup (78ml) avocado oil *
 - ¾ cup (177ml) pure maple syrup
-- 2 Tbsp (6g) orange zest (2 to 3 navel oranges, zested)
+- 2 TBSP (6g) orange zest (2 to 3 navel oranges, zested)
 - 2 tsp pure vanilla extract
 - 4 cups (454g) almond flour
 - ¾ cup (100g) tapioca flour
@@ -44,7 +44,7 @@ Use a cookie cutter to shape the dough into different shapes.
 
 Optional Powder Sugar Glaze:
 -  1 cup (100g) powdered sugar
--  2 Tbsp (30ml) water or orange juice
+-  2 TBSP (30ml) water or orange juice
 
 
 

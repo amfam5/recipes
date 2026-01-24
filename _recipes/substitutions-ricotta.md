@@ -13,7 +13,7 @@ ingredients:
 - 1 gallon whole milk
 - 1 quart buttermilk
 - 1 pint heavy cream
-- 1 tbsp kosher salt
+- 1 TBSP kosher salt
 - 18" square of cheesecloth
 
 directions:

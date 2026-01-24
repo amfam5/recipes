@@ -10,7 +10,7 @@ tags:
 
 ingredients:
 - 1 cup nuts
-- 1 tbsp plus 1 tsp coconut oil
+- 1 TBSP plus 1 tsp coconut oil
 
 directions:
 - blend finely

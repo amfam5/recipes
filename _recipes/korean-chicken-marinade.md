@@ -12,12 +12,12 @@ tags:
 
 ingredients:
 - 1/2 c. soy sauce 
-- 3-4 Tbsp Goghingang 
+- 3-4 TBSP Goghingang 
 - 1/4 c honey 
-- 2 Tbsp brown sugar 
-- 2 Tbsp sesame oil 
-- 1 1/2 Tbsp rice wine 
-- 1 Tbsp fresh ginger 
+- 2 TBSP brown sugar 
+- 2 TBSP sesame oil 
+- 1 1/2 TBSP rice wine 
+- 1 TBSP fresh ginger 
 - 4 cloves minced garlic 
 - reserve 1/2 c 
 - marinate 4-8 hours 

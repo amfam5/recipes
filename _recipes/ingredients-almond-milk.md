@@ -11,9 +11,9 @@ tags:
 
 ingredients:
 - 2 c water, filtered 
-- 1 1/2-2 Tbsp almond butter 
+- 1 1/2-2 TBSP almond butter 
 - 1 pinch salt 
-- 2 Tbsp maple Symap, opt. 
+- 2 TBSP maple Symap, opt. 
 
 
 directions:

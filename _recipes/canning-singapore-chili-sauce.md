@@ -14,7 +14,7 @@ ingredients:
 - 2 1/2 cup sugar
 - 1 1/2 cup golden raisins
 - 1/4 cup chopped garlic
-- 1 tbsp grated fresh ginger
+- 1 TBSP grated fresh ginger
 - 2 tsp salt
 
 directions:

@@ -11,8 +11,8 @@ tags:
 
 ingredients:
 - 1 1/2 cups (135g) superfine blanched almond flour, see note for measuring
-- 3 tbsp (42g) unsalted butter, melted
-- 3 tbsp (1.5fl oz/44ml) maple syrup
+- 3 TBSP (42g) unsalted butter, melted
+- 3 TBSP (1.5fl oz/44ml) maple syrup
 
 directions:
 - Add almond flour, melted butter, and maple syrup into a large mixing bowl and mix with a spatula until a soft dough forms.
