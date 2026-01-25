@@ -54,3 +54,7 @@ I prefer using a food processor for mixing the cheese dough. If you do not have 
 Recipe from [Kirbie Cravings](https://kirbiecravings.com/low-carb-keto-lasagna/)
 
 ![alt text](https://raw.githubusercontent.com/amfam5/recipes/refs/heads/gh-pages/images/keto-lasagna-1.jpg "Directions")
+
+![alt text](https://raw.githubusercontent.com/amfam5/recipes/refs/heads/gh-pages/images/keto-lasagna-12.jpg "Directions")
+
+![alt text](https://raw.githubusercontent.com/amfam5/recipes/refs/heads/gh-pages/images/keto-lasagna-14.jpg "Directions")
