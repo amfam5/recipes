@@ -27,3 +27,4 @@ directions:
 
 ---
 
+For orange flavor add 1 TBSP orange zest (orange flavor goes well with these cookies)
