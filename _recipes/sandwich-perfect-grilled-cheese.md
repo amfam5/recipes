@@ -10,13 +10,11 @@ tags:
 
 ingredients:
 - 2 cast iron skillets
-- bread
-- cheese
-- mustard
-- cheese
-- black pepper
-- butter
-- oil (for th bottom of the pan)
+- 2 slices hearty country bread, whole wheat or white
+- 1 teaspoon smooth Dijon mustard, plus more to taste
+- 3 ounces grated cheese, such as smoked gouda and Gruyere or Fontina with a young Asiago.
+- Freshly ground black pepper, to taste
+- 2 tablespoons clarified butter
 
 directions:
 - Place two 10-inch cast-iron skillets over high heat for 5 minutes.
