@@ -10,7 +10,7 @@ tags:
 
 
 ingredients:
-- 1 to 2lbs sandwhich sliced ham, slided into small squares or shredded
+- 1 to 2lbs sandwich sliced ham, slided into small squares or shredded
 - package/jar of Sauerkraut 
 - 4-8oz of goat cheese - Feta has best flavor, but can use a soft herbed goat cheese log.
 
@@ -22,7 +22,7 @@ directions:
 
 ---
 
-Excellent on toasted bread, rye bread, crackers, potatoe patties, you name it. 
+Excellent on toasted bread, rye bread, crackers, potato patties, you name it. 
 
 Add a bit of caraway seed if you want the rye bread flavor but dont have rye bread at hand.
 
