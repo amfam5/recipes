@@ -9,7 +9,7 @@ tags:
 - pasta
 
 ingredients:
-- 1 stick unsalted butter, diced
+- 1 stick unsalted butter, diced (good quality butter will make this dish sing, use kerry gold or siliar quality)
 - 4 ounces Parmigiano-Reggiano cheese (see notes for goat/sheep styles and options), grated on the fine holes of a box grater, plus more for serving (see note)
 - Kosher salt
 - 1 pound fresh fettuccine pasta or boxed gluten-free pasta of choice
