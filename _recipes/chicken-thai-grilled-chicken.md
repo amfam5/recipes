@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Thai Grilled Chicken"
-image: wait.jpg
+image: thai-grilled-chicken1.jpg
 imagecredit: self
 
 tags:
