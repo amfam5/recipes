@@ -6,7 +6,8 @@ image: Spinach-Potato-Bites.jpg
 imagecredit: self
 
 tags:
-- cabbage
+- Spinach
+- Potato
 
 
 ingredients:
